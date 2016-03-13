@@ -1,5 +1,5 @@
 {
-	"name": "chatrooms",
+	"name": "chat-engine",
 	"version": "0.0.1",
 	"description": "Minimalist multiroom chat server",
 	"dependencies": {
